@@ -4,3 +4,5 @@ Develop and integrate a novel mechanism to the attention layer to address issues
 Assess the performance improvements brought by the new attention layer with coverage on a standard NMT dataset, using metrics such as BLEU scores for quantifiable evaluation
 # Download Dataset
 from https://drive.google.com/file/d/1QI68ysC3nU0v7ggB1y3JzXKWwnTsUPVy/view?usp=sharing
+# Code Implementation
+And upload it your Google Drive and then import it to your python file and run the code.
